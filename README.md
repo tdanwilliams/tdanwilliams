@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tdanwilliams
 - 👀 I’m interested in nature, reading, and music
-- 🌱 I’m currently learning the basics of code. 
+- 🌱 I’m currently learning how Github works and the basics of code. 
 - 💞️ I’m looking to collaborate on software developmengt. I have ideas but no knowhow!
 - 📫 How to reach me ...
 
